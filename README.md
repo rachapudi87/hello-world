@@ -1,2 +1,5 @@
 # hello-world
-my first test repository
+
+Hey, 
+
+Srini here and I just started exploring Data Science. 
